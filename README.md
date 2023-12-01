@@ -19,7 +19,7 @@ Hello, I am Amirreza Haqi. Since I entered the university in 2019, I became inte
 ### Socials
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](http://www.instagram.com/amirrezahaqi)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirrezahaqi)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirreza-haqi/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/amirrezahaqi)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/amirrezahaqi)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://www.stackoverflow.com/users/21347966/amirrezahaqi)
