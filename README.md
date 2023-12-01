@@ -18,8 +18,9 @@ Hello, I am Amirreza Haqi. Since I entered the university in 2019, I became inte
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/amirrezahaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/amirrezahaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amirrezahaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amirrezahaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21347966/amirrezahaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/amirrezahaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=instagram)](http://www.instagram.com/amirrezahaqi)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirrezahaqi)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/amirrezahaqi)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/amirrezahaqi)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://www.stackoverflow.com/users/21347966/amirrezahaqi)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/amirrezahaqi)
