@@ -14,7 +14,7 @@ Hello, I am Amirreza Haqi. Since I entered the university in 2019, I became inte
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,firebase,git,postman,html,css,wordpress,xd,figma&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,firebase,git,postman,html,css,wordpress,xd,figma&perline=12)](https://amirrezahaqi.ir)
 
 ### Socials
 
