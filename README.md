@@ -24,3 +24,9 @@ Hello, I am Amirreza Haqi. Since I entered the university in 2019, I became inte
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/amirrezahaqi)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://www.stackoverflow.com/users/21347966/amirrezahaqi)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/amirrezahaqi)
+
+### Markets
+    
+[![My Skills](https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Cafe_Bazaar_logo.svg/100px-Cafe_Bazaar_logo.svg.png?20231120050454)](https://cafebazaar.ir/developer/008767083704)
+[![My Skills](https://upload.wikimedia.org/wikipedia/fa/thumb/1/17/Myket_logo.png/100px-Myket_logo.png)](https://myket.ir/developer/dev-83182)
+ 
