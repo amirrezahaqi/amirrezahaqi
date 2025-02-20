@@ -10,7 +10,7 @@ Hello, I am Amirreza Haqi. Since I entered the university in 2019, I became inte
 
 
 * ✉️  You can contact me at [amirrezahaqi@gmail.com](mailto:amirrezahaqi@gmail.com)
-* 🧠  I'm learning Flutter
+
 
 ### Skills
 
