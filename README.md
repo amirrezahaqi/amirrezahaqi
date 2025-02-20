@@ -8,7 +8,7 @@ Flutter Developer
 
 Hello, I am Amirreza Haqi. Since I entered the university in 2019, I became interested in programming. I started with front-end programming and learning JavaScript, but when I went further, I was looking for something specific, and I found Flutter and I was able to get a very good relationship with it. And I enjoy coding with it, that's why I changed my field of activity to Flutter
 
-* 🌍  I'm based in IRAN
+
 * ✉️  You can contact me at [amirrezahaqi@gmail.com](mailto:amirrezahaqi@gmail.com)
 * 🧠  I'm learning Flutter
 
