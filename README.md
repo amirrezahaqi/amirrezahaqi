@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![image](https://user-images.githubusercontent.com/88787993/223363376-77adea7f-aa81-4c34-aee1-4d708098c83f.png)
 
 
-Web & Mobile Developer | UI/UX Designer | WordPress & Flutter Specialist | Excited About Remote and Hybrid Work Environments
+Web & Mobile Developer | WordPress & Flutter Specialist | Excited About Remote and Hybrid Work Environments
 -----------------
 
 I’m a young computer engineer passionate about creating digital products that combine design and technology.
