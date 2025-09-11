@@ -3,11 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![image](https://user-images.githubusercontent.com/88787993/223363376-77adea7f-aa81-4c34-aee1-4d708098c83f.png)
 
 
-Flutter Developer
+Web & Mobile Developer | UI/UX Designer | WordPress & Flutter Specialist | Excited About Remote and Hybrid Work Environments
 -----------------
 
-Hello, I am Amirreza Haqi. Since I entered the university in 2019, I became interested in programming. I started with front-end programming and learning JavaScript, but when I went further, I was looking for something specific, and I found Flutter and I was able to get a very good relationship with it. And I enjoy coding with it, that's why I changed my field of activity to Flutter
-
+I’m a young computer engineer passionate about creating digital products that combine design and technology.
+With hands-on experience in WordPress development, UI/UX design, and Flutter mobile app development, I help businesses and startups transform ideas into user-friendly, scalable products.
+I enjoy working on projects where I can be involved in the full process — from designing intuitive interfaces to building functional websites and mobile applications. My goal is to create seamless digital experiences that not only look great but also deliver real value to users.
+🚀 Open to freelance projects, collaborations, and exciting opportunities in web & mobile development.
 
 * ✉️  You can contact me at [amirrezahaqi@gmail.com](mailto:amirrezahaqi@gmail.com)
 
