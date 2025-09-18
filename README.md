@@ -1,5 +1,8 @@
 
-(http://amirrezahaqi.ir/wp-content/uploads/2025/09/بنر-.webp)
+<p align="center">
+  <img src="http://amirrezahaqi.ir/wp-content/uploads/2025/09/بنر-.webp" alt="Banner" style="border-radius:20px;" />
+</p>
+
  ======================================================================================================================================
 
 
