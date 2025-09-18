@@ -1,4 +1,4 @@
-![بنر لینکدین](https://github.com/user-attachments/assets/a0b38c69-206d-45bb-a21c-c05a9e0c3fee)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AMIR REZA HAQI
+ http://amirrezahaqi.ir/wp-content/uploads/2025/09/بنر-.webp
 ======================================================================================================================================
 
 
