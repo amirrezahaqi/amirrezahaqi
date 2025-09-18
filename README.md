@@ -3,10 +3,6 @@
   <img src="http://amirrezahaqi.ir/wp-content/uploads/2025/09/بنر-.webp" alt="Banner" style="border-radius:20px;" />
 </p>
 
- ==================================================================================================
-
-
-
 
 Web & Mobile Developer | WordPress & Flutter Specialist | Excited About Remote and Hybrid Work Environments
 -----------------
